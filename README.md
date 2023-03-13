@@ -23,5 +23,5 @@ Para utilizar os scripts neste repositório, é necessário ter instalado o serv
 Para utilizar os scripts, basta executá-los em um cliente MySQL, como o MySQL Workbench. Os scripts estão organizados em arquivos separados de acordo com o tópico que abordam, facilitando a localização de um script específico.
 
 
-:rotating_light: - a pasta SRC contem os arquivos desenvolvidos por mim. As demais pastas contem arquivos desenvolvidos pela Trybe.
+:rotating_light: - os arquivos nomeados por "requisito*.sql" contem as linhas de instrução desenvolvidas por mim. As demais pastas contem arquivos desenvolvidos pela Trybe.
 
